@@ -1,0 +1,58 @@
+[
+ {
+  "packed": "IBMPlexMono-Bold.ttf",
+  "parts": [
+   "packed/IBMPlexMono-Bold.ttf.b64.00"
+  ],
+  "sha256": "dbd2a2fb024579438d6400a84e57579bfd2dbe67c306c8fd9fde92a61e4f2eea",
+  "out": "assets/fonts/IBMPlexMono-Bold.ttf"
+ },
+ {
+  "packed": "IBMPlexMono-Medium.ttf",
+  "parts": [
+   "packed/IBMPlexMono-Medium.ttf.b64.00"
+  ],
+  "sha256": "8ae925744d53758b67a77ea35c2fc46d7b688c7d8c04da3b579902bed0ca0e17",
+  "out": "assets/fonts/IBMPlexMono-Medium.ttf"
+ },
+ {
+  "packed": "IBMPlexMono-Regular.ttf",
+  "parts": [
+   "packed/IBMPlexMono-Regular.ttf.b64.00"
+  ],
+  "sha256": "ab08018ccd276b79fb2c636bb95b9c543598f9d50505fe92506fcb4dae7810cd",
+  "out": "assets/fonts/IBMPlexMono-Regular.ttf"
+ },
+ {
+  "packed": "IBMPlexMono-SemiBold.ttf",
+  "parts": [
+   "packed/IBMPlexMono-SemiBold.ttf.b64.00"
+  ],
+  "sha256": "b1a936f96266fbe036b112f659155f7c32222af44a9a20f3bb011f51050669d5",
+  "out": "assets/fonts/IBMPlexMono-SemiBold.ttf"
+ },
+ {
+  "packed": "Inter-VariableFont.ttf",
+  "parts": [
+   "packed/Inter-VariableFont.ttf.b64.00"
+  ],
+  "sha256": "0be2399ea925f1f83ff974764761da9860ec50742ed29a5d4c1ffd0c5c7ac3a8",
+  "out": "assets/fonts/Inter-VariableFont.ttf"
+ },
+ {
+  "packed": "Montserrat-VariableFont.ttf",
+  "parts": [
+   "packed/Montserrat-VariableFont.ttf.b64.00"
+  ],
+  "sha256": "498dc34d0fa45288e0ac5345bd385c98bf81c56ee70209aacfb4a22a6510697c",
+  "out": "assets/fonts/Montserrat-VariableFont.ttf"
+ },
+ {
+  "packed": "placeholder_logo.png",
+  "parts": [
+   "packed/placeholder_logo.png.b64.00"
+  ],
+  "sha256": "3c8ec2d87961f0734359f601c032cb5a69cb9a1e756acd98285b511cd9c4eef7",
+  "out": "assets/icons/placeholder_logo.png"
+ }
+]
