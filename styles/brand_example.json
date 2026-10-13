@@ -1,0 +1,13 @@
+{
+ "name": "Brand example (neutral placeholder - replace with your own)",
+ "palette": {"bg": "#14213D", "bg2": "#0B1426", "ink": "#FFFFFF", "ink_on_dark": "#FFFFFF",
+             "accent": "#2EC4B6", "muted": "#9AA5B8", "panel": "#22304F", "underlay_tint": "#0B1426"},
+ "fonts": {"head": {"file": "assets/fonts/Montserrat-VariableFont.ttf", "variation": "ExtraBold"},
+           "body": {"file": "assets/fonts/Inter-VariableFont.ttf", "variation": "Medium"}},
+ "background": {"type": "gradient"},
+ "uppercase": true, "tracking": 0, "type_size": [130, 64],
+ "camera_push": 0.025, "end_hold_sec": 10.0,
+ "chrome": {"progress_bar": true},
+ "logo": "assets/icons/placeholder_logo.png",
+ "end_card": {"title": "YOUR BRAND", "cta": "your tagline · yoursite.com"}
+}

@@ -1,0 +1,13 @@
+{
+ "name": "Tech Mono",
+ "palette": {"bg": "#F5F5F2", "grid": "#C8C8C4", "ink": "#141416", "ink_on_dark": "#FFFFFF",
+             "accent": "#2B6CFF", "muted": "#6B6B70", "panel": "#FFFFFF", "underlay_tint": "#141416"},
+ "fonts": {"head": {"file": "assets/fonts/IBMPlexMono-Bold.ttf"},
+           "body": {"file": "assets/fonts/IBMPlexMono-Medium.ttf"}},
+ "background": {"type": "dot-grid", "spacing": 80},
+ "uppercase": false, "tracking": -2, "type_size": [140, 64],
+ "camera_push": 0.03, "type_in": "blur", "slot_swap": true, "accents": "hand-drawn", "end_hold_sec": 10.0,
+ "chrome": {"progress_bar": true, "label": "// explainer", "timecode": true},
+ "logo": null,
+ "end_card": {"title": "Your takeaway here", "cta": "Follow for more"}
+}
