@@ -1,0 +1,9 @@
+_smoke/
+out/
+work/
+*.wav
+*.mp3
+.env
+__pycache__/
+assets/fonts/*.ttf
+assets/icons/placeholder_logo.png
