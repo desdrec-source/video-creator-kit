@@ -15,7 +15,7 @@ bash install.sh                                 # pip install, ffmpeg check, unp
 MODE=smoke bash examples/example_run.sh         # -> out/final.mp4, no API key needed
 ```
 
-You can also use the zip: download https://github.com/desdrec-source/video-creator-kit/archive/refs/tags/v1.0.0.zip (pinned v1.0.0) or https://github.com/desdrec-source/video-creator-kit/archive/refs/heads/main.zip (latest), unzip it, and run `bash install.sh`.
+You can also use the zip: download https://github.com/desdrec-source/video-creator-kit/archive/refs/heads/main.zip, unzip it, and run `bash install.sh`.
 
 Fonts and the placeholder logo ship base64-packed in `packed/`. `install.sh` rebuilds them into `assets/` and checks each SHA-256.
 
