@@ -79,4 +79,4 @@ Pexels Licence: free to use and modify in your videos, attribution appreciated n
 - Fonts bundled are SIL OFL 1.1 (see `LICENCES.md`). Want a different font? Drop a TTF you're licensed for in `assets/fonts/` and point the style at it.
 - No voice, no logo, no stock media from anyone else ships here — bring your own.
 
-Credit: kit by Des Dreckett, MIT licence.
+Made for the AI Video Motion community. MIT licence.
